@@ -1,0 +1,32 @@
+2022-04-06 17:37:34,021 wd [WARN] this is a warn message
+2022-04-06 17:37:34,021 wd [ERROR] this is an error message
+2022-04-06 17:37:34,021 wd [INFO] this is an  info message
+2022-04-06 17:37:34,021 wd [DEBUG] this is a debug message
+2022-04-06 17:37:40,314 wd [WARN] this is a warn message
+2022-04-06 17:37:40,314 wd [ERROR] this is an error message
+2022-04-06 17:37:40,314 wd [INFO] this is an  info message
+2022-04-06 17:37:40,314 wd [DEBUG] this is a debug message
+2022-04-06 17:59:06,673 wd [WARN] [TestMylogger.cc:test3:39]this is a warn message
+2022-04-06 17:59:06,673 wd [ERROR] [TestMylogger.cc:test3:40]this is an error message
+2022-04-06 17:59:06,673 wd [INFO] [TestMylogger.cc:test3:41]this is an  info message
+2022-04-06 17:59:06,673 wd [DEBUG] [TestMylogger.cc:test3:42]this is a debug message
+2022-04-06 17:59:17,749 wd [WARN] [TestMylogger.cc:test3:39]this is a warn message
+2022-04-06 17:59:17,749 wd [ERROR] [TestMylogger.cc:test3:40]this is an error message
+2022-04-06 17:59:17,749 wd [INFO] [TestMylogger.cc:test3:41]this is an  info message
+2022-04-06 17:59:17,749 wd [DEBUG] [TestMylogger.cc:test3:42]this is a debug message
+2022-04-06 17:59:24,581 wd [WARN] [TestMylogger.cc:test3:39]this is a warn message
+2022-04-06 17:59:24,581 wd [ERROR] [TestMylogger.cc:test3:40]this is an error message
+2022-04-06 17:59:24,581 wd [INFO] [TestMylogger.cc:test3:41]this is an  info message
+2022-04-06 17:59:24,581 wd [DEBUG] [TestMylogger.cc:test3:42]this is a debug message
+2022-04-06 17:59:54,867 wd [WARN] [TestMylogger.cc:test3:39] this is a warn message
+2022-04-06 17:59:54,867 wd [ERROR] [TestMylogger.cc:test3:40] this is an error message
+2022-04-06 17:59:54,867 wd [INFO] [TestMylogger.cc:test3:41] this is an  info message
+2022-04-06 17:59:54,867 wd [DEBUG] [TestMylogger.cc:test3:42] this is a debug message
+2022-04-06 18:03:15,500 wd [WARN] [TestMylogger.cc:test4:47] this is a warn message
+2022-04-06 18:03:15,500 wd [ERROR] [TestMylogger.cc:test4:48] this is a warn message
+2022-04-06 18:03:15,500 wd [INFO] [TestMylogger.cc:test4:49] this is a warn message
+2022-04-06 18:03:15,500 wd [DEBUG] [TestMylogger.cc:test4:50] this is a warn message
+2022-04-06 18:03:38,349 wd [WARN] [TestMylogger.cc:test4:47] this is a warn message
+2022-04-06 18:03:38,349 wd [ERROR] [TestMylogger.cc:test4:48] this is a error message
+2022-04-06 18:03:38,349 wd [INFO] [TestMylogger.cc:test4:49] this is a info message
+2022-04-06 18:03:38,349 wd [DEBUG] [TestMylogger.cc:test4:50] this is a debug message
