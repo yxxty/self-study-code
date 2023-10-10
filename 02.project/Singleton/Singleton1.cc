@@ -1,9 +1,3 @@
- ///
- /// @file    Singleton1.cc
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2022-04-06 14:52:17
- ///
- 
 #include <iostream>
 using std::cout;
 using std::endl;
