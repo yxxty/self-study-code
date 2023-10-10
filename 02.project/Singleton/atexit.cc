@@ -1,9 +1,3 @@
- ///
- /// @file    atexit.cc
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2022-04-06 16:08:22
- ///
- 
 #include <stdlib.h>
 
 #include <iostream>
