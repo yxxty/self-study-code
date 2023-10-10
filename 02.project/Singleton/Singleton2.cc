@@ -29,7 +29,7 @@ public:
 			}
 			cout << "~AutoRelease()" << endl;
 		}
-		Singleton * _p;
+		//Singleton * _p;
 	};
 public:
 	static Singleton * getInstance()
